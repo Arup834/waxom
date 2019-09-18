@@ -1,0 +1,144 @@
+
+
+
+@media screen and (max-width: 1050px) {
+
+	.header_section_nav .manu_bar .respon_logo a i {
+		display: block; 
+	}
+
+	.header_section_nav .manu_bar .nav_manu {
+		display: none; 
+	}
+}
+
+@media screen and (max-width: 1050px) {
+	.header_section .owl-dots {
+		bottom: 50px;
+	}
+
+	.header_section .owl-dots .owl-dot {
+		width: 11px;
+		height: 11px;
+	}
+}
+
+@media screen and (max-width: 1050px) {
+	.mobile_device h3 {
+		margin-top: 100px; 
+	}
+
+	.footer .first_footer p {
+		margin-top: 2px; 
+		display: block;
+		width: 100%;
+	}
+
+	.footer .first_footer p, .footer .first_footer ul li a {
+		font-size: 12px; 
+	}
+
+	.footer .first_footer ul li a {
+		display: block; 
+		width: 100%;
+		float: left;
+	}
+
+	.footer .first_footer ul li a:nth-child(1) {
+		margin-left: 0px; 
+		padding-left: 0px; 
+		border-left: none; 
+		margin-top: 10px;
+	}
+
+	.footer .second_footer p {
+		border: none;
+		float: right;
+	}
+
+}
+
+@media screen and (max-width: 800px) {
+	.header_section .owl-dots {
+		bottom: 30px;
+	}
+
+	.header_section .header_content h3 {
+		font-size: 20px; 
+	}
+
+	.header_section .header_content h1 {
+		font-size: 30px; 
+	}
+
+	.header_section .header_content p {
+		font-size: 10px; 
+		margin-bottom: 30px;
+	}
+
+	.header_section .header_content a {
+		font-size: 10px; 
+		padding: 5px 20px;
+	}
+}
+
+@media screen and (max-width: 778px) {
+	.mobile_device .mob_pic {
+		height: 650px;
+		width: 100%;
+		position: relative;
+	}
+
+	.mobile_device .mob_pic img {
+		position: absolute; 
+		bottom: 0px;
+		right: 20px;
+	}
+
+
+}
+
+
+@media screen and (max-width: 768px) {
+	.portfolio .singel_port {
+		margin-top: 50px; 
+	}
+}
+
+@media screen and (max-width: 700px) {
+	.header_section .header_content {
+		top: 55%;
+	}
+
+}
+
+
+@media screen and (max-width: 600px) {
+	.header_section .owl-dots {
+		display: none;
+	}
+
+	.header_section .header_content {
+		top: 60%;
+	}
+}
+
+@media screen and (max-width: 550px) {
+	.header_section .header_content h3 {
+		font-size: 14px; 
+	}
+
+	.header_section .header_content h1 {
+		font-size: 20px; 
+	}
+
+	.header_section .header_content p {
+		font-size: 7px; 
+		margin-bottom: 15px;
+	}
+
+	.header_section .header_content a {
+		font-size: 8px; 
+		padding: 5px 15px;
+	}
+}
